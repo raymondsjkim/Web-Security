@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Associative Arrays</title>
     <style>
-        h1 {
-            margin: 0;
-        }
         h2 {
             margin-top: 0;
         }
@@ -15,8 +12,7 @@
 </head>
 <body>
 
-<h1>Raymond Kim</h1>
-<h2>Chapter 3 Section 7 - Associative arrays</h2>
+<h2>Raymond Kim - Associative arrays</h2>
 
 <?php $assoc = array("first_name" => "Kevin", "last_name" => "Skoglund"); ?>
 
